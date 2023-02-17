@@ -1,0 +1,537 @@
+fileFormatVersion: 2
+guid: 84fcf2a209054a54b9f5839a1a4f8e9d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3432643437370390091
+    second: PC Computer - Blood - Burning Alpha_0
+  - first:
+      213: -2238817574514446275
+    second: PC Computer - Blood - Burning Alpha_2
+  - first:
+      213: 6505120065754988909
+    second: PC Computer - Blood - Burning Alpha_4
+  - first:
+      213: 6796100957241195353
+    second: PC Computer - Blood - Burning Alpha_7
+  - first:
+      213: 8758315889507571861
+    second: PC Computer - Blood - Burning Alpha_8
+  - first:
+      213: 5660746881555792050
+    second: PC Computer - Blood - Burning Alpha_11
+  - first:
+      213: 2130937683503963520
+    second: PC Computer - Blood - Burning Alpha_12
+  - first:
+      213: 2127286997254116180
+    second: PC Computer - Blood - Burning Alpha_13
+  - first:
+      213: -8181530853644280483
+    second: PC Computer - Blood - Burning Alpha_14
+  - first:
+      213: -6542211850183294865
+    second: PC Computer - Blood - Burning Alpha_43
+  - first:
+      213: 7181827451316525543
+    second: PC Computer - Blood - Burning Alpha_44
+  - first:
+      213: 4369755194365833901
+    second: PC Computer - Blood - Burning Alpha_45
+  - first:
+      213: 6826135513275707961
+    second: PC Computer - Blood - Burning Alpha_46
+  - first:
+      213: 5478395124004868190
+    second: PC Computer - Blood - Burning Alpha_47
+  - first:
+      213: 6209745182948700072
+    second: PC Computer - Blood - Burning Alpha_48
+  - first:
+      213: -5741215296533746039
+    second: PC Computer - Blood - Burning Alpha_49
+  - first:
+      213: 2882070231168276409
+    second: PC Computer - Blood - Burning Alpha_1
+  - first:
+      213: -6452584826706182000
+    second: PC Computer - Blood - Burning Alpha_3
+  - first:
+      213: -4281887864754017142
+    second: PC Computer - Blood - Burning Alpha_5
+  - first:
+      213: -3492462781261246650
+    second: PC Computer - Blood - Burning Alpha_6
+  - first:
+      213: -4188652006481045444
+    second: PC Computer - Blood - Burning Alpha_9
+  - first:
+      213: 20486031901070475
+    second: PC Computer - Blood - Burning Alpha_10
+  - first:
+      213: 8036299382296360293
+    second: PC Computer - Blood - Burning Alpha_15
+  - first:
+      213: 7193182461466547157
+    second: PC Computer - Blood - Burning Alpha_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Blood - Burning Alpha_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 315
+        width: 68
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b946fa0bfccc50d0800000000000000
+      internalID: -3432643437370390091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blood - Burning Alpha_2
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 312
+        width: 78
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d303a2a174f1ee0e0800000000000000
+      internalID: -2238817574514446275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blood - Burning Alpha_4
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 323
+        width: 80
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d618794fb34d64a50800000000000000
+      internalID: 6505120065754988909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blood - Burning Alpha_7
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 184
+        width: 60
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bbd0630d9905e50800000000000000
+      internalID: 6796100957241195353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blood - Burning Alpha_8
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 190
+        width: 72
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59812c0e5e9cb8970800000000000000
+      internalID: 8758315889507571861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blood - Burning Alpha_11
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 84
+        width: 75
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0888efb430f8e40800000000000000
+      internalID: 5660746881555792050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blood - Burning Alpha_12
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 101
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d5fbf688c929d10800000000000000
+      internalID: 2130937683503963520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blood - Burning Alpha_13
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 115
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45393aec044a58d10800000000000000
+      internalID: 2127286997254116180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blood - Burning Alpha_14
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 118
+        width: 69
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d52a5490d557e80800000000000000
+      internalID: -8181530853644280483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blood - Burning Alpha_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 318
+        width: 75
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7538afa9b2ff720800000000000000
+      internalID: 2882070231168276409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blood - Burning Alpha_3
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 317
+        width: 82
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0904a119940d376a0800000000000000
+      internalID: -6452584826706182000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blood - Burning Alpha_5
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 182
+        width: 58
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ce7456cada394c0800000000000000
+      internalID: -4281887864754017142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blood - Burning Alpha_6
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 185
+        width: 57
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f86a3ba97488fc0800000000000000
+      internalID: -3492462781261246650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blood - Burning Alpha_9
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 191
+        width: 72
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3858f9413beed5c0800000000000000
+      internalID: -4188652006481045444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blood - Burning Alpha_10
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 70
+        width: 71
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84125effe7c84000800000000000000
+      internalID: 20486031901070475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blood - Burning Alpha_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 11
+        width: 87
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5653776c5bba68f60800000000000000
+      internalID: 8036299382296360293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Blood - Burning Alpha_16
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 9
+        width: 85
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3984c665153d360800000000000000
+      internalID: 7193182461466547157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

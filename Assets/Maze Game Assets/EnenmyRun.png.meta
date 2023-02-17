@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: 54afd0a9ab37fad46bec528a4b8b2230
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1544163453236460936
+    second: EnenmyRun_0
+  - first:
+      213: -7530210704203062244
+    second: EnenmyRun_1
+  - first:
+      213: -2616932650547300173
+    second: EnenmyRun_2
+  - first:
+      213: -4301071381099619288
+    second: EnenmyRun_3
+  - first:
+      213: -4406315891413725399
+    second: EnenmyRun_4
+  - first:
+      213: 7276502041671434725
+    second: EnenmyRun_5
+  - first:
+      213: 6277099918334709214
+    second: EnenmyRun_6
+  - first:
+      213: -1065797186354555989
+    second: EnenmyRun_7
+  - first:
+      213: -4983203913066234740
+    second: EnenmyRun_8
+  - first:
+      213: -2667983530811179142
+    second: EnenmyRun_9
+  - first:
+      213: 2734510942323343268
+    second: EnenmyRun_10
+  - first:
+      213: 1183118006174975403
+    second: EnenmyRun_11
+  - first:
+      213: 7127989746489195957
+    second: EnenmyRun_12
+  - first:
+      213: -2888016992364322866
+    second: EnenmyRun_13
+  - first:
+      213: -3515258504605251853
+    second: EnenmyRun_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 175
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EnenmyRun_0
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1701
+        width: 213
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88dbc49ba78fd6510800000000000000
+      internalID: 1544163453236460936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnenmyRun_1
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1702
+        width: 227
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14e124e2415f7790800000000000000
+      internalID: -7530210704203062244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnenmyRun_2
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 1707
+        width: 236
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8b1039e99ceabd0800000000000000
+      internalID: -2616932650547300173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnenmyRun_3
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 1706
+        width: 224
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c55ffed568f44c0800000000000000
+      internalID: -4301071381099619288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnenmyRun_4
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1301
+        width: 210
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f402cda0f99d2c0800000000000000
+      internalID: -4406315891413725399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnenmyRun_5
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1298
+        width: 204
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e10b39ed045bf460800000000000000
+      internalID: 7276502041671434725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnenmyRun_6
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1298
+        width: 204
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd49f34e1dbc1750800000000000000
+      internalID: 6277099918334709214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnenmyRun_7
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1296
+        width: 208
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3d9b81b178531f0800000000000000
+      internalID: -1065797186354555989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnenmyRun_8
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 897
+        width: 219
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cb956717a18dab0800000000000000
+      internalID: -4983203913066234740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnenmyRun_9
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 901
+        width: 232
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f38634d1b69fad0800000000000000
+      internalID: -2667983530811179142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnenmyRun_10
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 903
+        width: 229
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aff997c63fe2f520800000000000000
+      internalID: 2734510942323343268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnenmyRun_11
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 905
+        width: 210
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba58d65ee874b6010800000000000000
+      internalID: 1183118006174975403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnenmyRun_12
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 501
+        width: 204
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd7d12a8e4bbe260800000000000000
+      internalID: 7127989746489195957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnenmyRun_13
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 498
+        width: 204
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf15d8c8d3bbe7d0800000000000000
+      internalID: -2888016992364322866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnenmyRun_14
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 495
+        width: 205
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f64553c30b473fc0800000000000000
+      internalID: -3515258504605251853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
